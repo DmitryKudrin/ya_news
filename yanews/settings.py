@@ -50,7 +50,6 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'yanews.wsgi.application'
 
-
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
